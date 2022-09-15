@@ -28,8 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1"> -->
 
 [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655)
 
@@ -41,18 +41,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-<!-- 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+<!-- # 🎖 Honors and Awards -->
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
 - *2017.09 - 2022.06*, School of Internet of Things, Jiangnan University, Wuxi, China. 
 - *2012.09 - 2016.06*, School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
-# 💻 Visit
+# 💬 Visit
 - *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
 
-# 💬 Reviewer
+# 💻 Reviewer
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Neural Networks and Learning Systems
 - Applied Mathematics and Computation
