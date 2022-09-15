@@ -40,17 +40,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), **Dong Ding**, Ze Tang, Ju Hyun Park, Yan Wang, Zhicheng Ji, *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# 💬 Main Collaborations
+- [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), Kunpeng Wang, **Dong Ding**, Ze Tang, Jianwen Feng, *Applied Mathematics and Computation*, 2022, 424: 127031. 
+
 # 📖 Educations
+- *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
 - *2017.09 - 2022.06*, School of Internet of Things, Jiangnan University, Wuxi, China. 
 - *2012.09 - 2016.06*, School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
-
-# 💬 Visit
-- *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
 
 # 💻 Reviewer
 - IEEE Transactions on Cybernetics
