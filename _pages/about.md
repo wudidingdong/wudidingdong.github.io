@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Welcome to my academic page.
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -31,16 +31,12 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-[Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655)
+**Books**
+- [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Ze Tang, **Dong Ding**, Yan Wang, Zhicheng Ji, Ju Hyun Park, *Springer*, 2022.
 
-**Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
+**Journals**
 - [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), **Dong Ding**, Ze Tang, Ju Hyun Park, Yan Wang, Zhicheng Ji, *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.
+- [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655), **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji, *Applied Mathematics and Computation*, 2021, 399: 126017.
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -54,10 +50,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2012.09 - 2016.06*, School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
 # 💻 Reviewer
-- IEEE Transactions on Cybernetics
-- IEEE Transactions on Neural Networks and Learning Systems
-- Applied Mathematics and Computation
-- ISA Transactions
-- Nonlinear Dynamics
-- International Journals of Control, Automation and Systems
-- Neural Processing Letters
+- *IEEE Transactions on Cybernetics*
+- *IEEE Transactions on Neural Networks and Learning Systems*
+- *Applied Mathematics and Computation*
+- *ISA Transactions*
+- *Nonlinear Dynamics*
+- *International Journals of Control, Automation and Systems*
+- *Neural Processing Letters*
