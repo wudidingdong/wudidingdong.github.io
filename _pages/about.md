@@ -41,16 +41,22 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+<!-- 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
 - *2017.09 - 2022.06*, School of Internet of Things, Jiangnan University, Wuxi, China. 
-- *2012.09 - 2016.06*, School of vehicle engineering, Shanghai Dianji University, Shanghai, China. 
+- *2012.09 - 2016.06*, School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Visit
+- *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Reviewer
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Neural Networks and Learning Systems
+- Applied Mathematics and Computation
+- ISA Transactions
+- Nonlinear Dynamics
+- International Journals of Control, Automation and Systems
+- Neural Processing Letters
