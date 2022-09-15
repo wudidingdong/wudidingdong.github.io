@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic page.
+Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University.
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'>google scholar citations <strong><span id='total_cit'>30+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -32,7 +32,7 @@ My research interest includes exponential synchronization, impulsive control, se
 <!-- <div class='paper-box-text' markdown="1"> -->
 
 **Books**
-- [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Ze Tang, **Dong Ding**, Yan Wang, Zhicheng Ji, Ju H. Park, *Springer*, 2022.
+- Ze Tang, **Dong Ding**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), *Springer*, 2022.
 
 **Journals**
 - **Dong Ding**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.
@@ -51,9 +51,9 @@ My research interest includes exponential synchronization, impulsive control, se
 - Jiafeng Wang, Ze Tang, **Dong Ding**, Jianwen Feng, [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031.
 
 # 📖 Educations
-- *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
-- *2017.09 - 2022.06*, School of Internet of Things, Jiangnan University, Wuxi, China. 
-- *2012.09 - 2016.06*, School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
+- *2021.02 - 2022.02* School of Electrical Engineering, Yeungnam University, Gyeongsangbuk-do, Korea.
+- *2017.09 - 2022.06* School of Internet of Things, Jiangnan University, Wuxi, China. 
+- *2012.09 - 2016.06* School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
 # 💻 Reviewer
 - *IEEE Transactions on Cybernetics*
