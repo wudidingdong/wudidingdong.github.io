@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ding Dong"
-description              : "Dr. Ding Dong's academic page. "
+description              : "This is Ding Dong's academic page."
 repository               : "wudidingdong/wudidingdong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ding Dong"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/richdog.jpg"
   bio              : "Shanghai Dianji University"
   location         : "Shanghai, China"
   employer         :
