@@ -32,17 +32,23 @@ My research interest includes exponential synchronization, impulsive control, se
 <!-- <div class='paper-box-text' markdown="1"> -->
 
 **Books**
-- [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Ze Tang, **Dong Ding**, Yan Wang, Zhicheng Ji, Ju Hyun Park, *Springer*, 2022.
+- [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Ze Tang, **Dong Ding**, Yan Wang, Zhicheng Ji, Ju H. Park, *Springer*, 2022.
 
 **Journals**
-- [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), **Dong Ding**, Ze Tang, Ju Hyun Park, Yan Wang, Zhicheng Ji, *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.
-- [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655), **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji, *Applied Mathematics and Computation*, 2021, 399: 126017.
+- **Dong Ding**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.
+- **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji, Ju H. Park. [Secure synchronization for cyber-physical complex networks based on self-triggering impulsive control: static and dynamic method](https://ieeexplore.ieee.org/abstract/document/9521828), *IEEE Transactions on Network Science and Engineering*, 2021, 8(4): 3167-3178.
+- **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji. [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655), *Applied Mathematics and Computation*, 2021, 399: 126017.
+- **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji. [Pinning impulsive synchronization of complex networks with multiple sizes of delays via adaptive impulsive intervals](https://link.springer.com/article/10.1007/s00034-021-01682-0), *Circuits, Systems and Signal Processing*, 2021, 40: 4259-4278.
+- **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji. [Synchronization of nonlinearly coupled complex networks: distributed impulsive method](https://www.sciencedirect.com/science/article/abs/pii/S0960077920300199), *Chaos, Solitons and Fractals*, 2020, 133: 109620.
+- **Dong Ding**, Ze Tang, Yan Wang, Zhicheng Ji. [Adaptive synchronization of complex dynamical networks via distributed pinning impulsive control](https://link.springer.com/article/10.1007/s11063-020-10373-x), *Neural Processing Letters*, 2020, 52(3): 2669-2686.
+- **Dong Ding**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115.
 
 <!-- # 🎖 Honors and Awards -->
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 💬 Main Collaborations
-- [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), Kunpeng Wang, **Dong Ding**, Ze Tang, Jianwen Feng, *Applied Mathematics and Computation*, 2022, 424: 127031. 
+- Kunpeng Wang, **Dong Ding**, Ze Tang, Jianwen Feng, [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. 
+- Jiafeng Wang, Ze Tang, **Dong Ding**, Jianwen Feng, [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031.
 
 # 📖 Educations
 - *2021.02 - 2022.02*, Yeungnam University, Ju H. Park's laboratory.
