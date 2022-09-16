@@ -43,11 +43,11 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji. [Adaptive synchronization of complex dynamical networks via distributed pinning impulsive control](https://link.springer.com/article/10.1007/s11063-020-10373-x), *Neural Processing Letters*, 2020, 52(3): 2669-2686. <span class='show_paper_citations' data='DysRrzMAAAAJ:9yKSN-GCB0IC'></span>
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span>
 
-<!-- # 🎖 Honors and Awards -->
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+🎖 Honors and Awards
+*2020.08* A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Phd Student*.
 
 # 💬 Main Collaborations
-- Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng, [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. 
+- Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng, [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. 
 - Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng, [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031.
 
 # 📖 Educations
