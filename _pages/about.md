@@ -31,10 +31,10 @@ My research interest includes exponential synchronization, impulsive control, se
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-**Books**
+## **Books**
 - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), *Springer*, 2022. <span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span>
 
-**Journals**
+## **Journals**
 - **<u>Dong Ding</u>**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854. <span class='show_paper_citations' data='DysRrzMAAAAJ:5nxA0vEk-isC'></span>
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji, Ju H. Park. [Secure synchronization for cyber-physical complex networks based on self-triggering impulsive control: static and dynamic method](https://ieeexplore.ieee.org/abstract/document/9521828), *IEEE Transactions on Network Science and Engineering*, 2021, 8(4): 3167-3178. Citations: <span class='show_paper_citations' data='DysRrzMAAAAJ:W7OEmFMy1HYC'></span>
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji. [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655), *Applied Mathematics and Computation*, 2021, 399: 126017. <span class='show_paper_citations' data='DysRrzMAAAAJ:UeHWp8X0CEIC'></span>
@@ -43,7 +43,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji. [Adaptive synchronization of complex dynamical networks via distributed pinning impulsive control](https://link.springer.com/article/10.1007/s11063-020-10373-x), *Neural Processing Letters*, 2020, 52(3): 2669-2686. <span class='show_paper_citations' data='DysRrzMAAAAJ:9yKSN-GCB0IC'></span>
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span>
 
-🎖 Honors and Awards
+# 🎖 Honors and Awards
 *2020.08* A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Phd Student*.
 
 # 💬 Main Collaborations
