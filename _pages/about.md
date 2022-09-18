@@ -32,7 +32,8 @@ My research interest includes exponential synchronization, impulsive control, se
 <!-- <div class='paper-box-text' markdown="1"> -->
            
 ## **Books** 
-- Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), *Springer*, 2022. <span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span>
+- Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), *Springer*, 2022. 
+<!-- <span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span> -->
 
 ## **Journals**
 - **<u>Dong Ding</u>**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.  <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:5nxA0vEk-isC'></span></strong>
