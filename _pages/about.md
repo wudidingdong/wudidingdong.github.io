@@ -52,9 +52,9 @@ My research interest includes exponential synchronization, impulsive control, se
 - Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng, [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
 
 # 📖 Educations
-- *2021.02 - 2022.02* School of Electrical Engineering, Yeungnam University, Gyeongsangbuk-do, Korea.
-- *2017.09 - 2022.06* School of Internet of Things Engineering, Jiangnan University, Wuxi, China. 
-- *2012.09 - 2016.06* School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
+- *2021.02 - 2022.02* &nbsp; School of Electrical Engineering, Yeungnam University, Gyeongsangbuk-do, Korea.
+- *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering, Jiangnan University, Wuxi, China. 
+- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
 # 💻 Reviewer
 - *IEEE Transactions on Cybernetics*
