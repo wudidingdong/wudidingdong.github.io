@@ -23,7 +23,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 
 # 🔥 News
-- *2022.09*: &nbsp; Engage in Shanghai Dianji University.
+- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. 
 
 # 📝 Publications 
