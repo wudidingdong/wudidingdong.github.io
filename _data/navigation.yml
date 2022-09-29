@@ -8,12 +8,12 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Main Collaborations"
-    url: "/#-main-collaborations"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Main Collaborations"
+    url: "/#-main-collaborations"
     
   - title: "Educations"
     url: "/#-educations"
