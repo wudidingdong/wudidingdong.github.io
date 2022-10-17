@@ -36,7 +36,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 - Ze Tang, **<u>Dong Ding</u>**, Ju H. Park, [Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy](https://link.springer.com/chapter/10.1007/978-3-030-49123-9_20), in *Recent Advances in Control Problems of Dynamical Systems and Networks*, *Springer*, 2021: 477-498. 
 
-## **Journals**
+## **Journal papers**
 - **<u>Dong Ding</u>**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.  <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:5nxA0vEk-isC'></span></strong>
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji, Ju H. Park. [Secure synchronization for cyber-physical complex networks based on self-triggering impulsive control: static and dynamic method](https://ieeexplore.ieee.org/abstract/document/9521828), *IEEE Transactions on Network Science and Engineering*, 2021, 8(4): 3167-3178. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:W7OEmFMy1HYC'></span></strong>
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji. [Secure synchronization of complex networks under deception attacks against vulnerable nodes](https://www.sciencedirect.com/science/article/abs/pii/S0096300321000655), *Applied Mathematics and Computation*, 2021, 399: 126017. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:UeHWp8X0CEIC'></span></strong>
@@ -49,7 +49,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Phd Student*.
 
 # 💬 Main Collaborations
-## **Journals**
+## **Journal papers**
 - Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
 
