@@ -33,7 +33,9 @@ My research interest includes exponential synchronization, impulsive control, se
            
 ## **Books** 
 - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), *Springer*, 2022. 
-<!-- <span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span> -->
+
+## **Chapters** 
+- Ze Tang, **<u>Dong Ding</u>**, Ju H. Park, [Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy](https://link.springer.com/chapter/10.1007/978-3-030-49123-9_20), in *Recent Advances in Control Problems of Dynamical Systems and Networks*, *Springer*, 2021: 477-498. 
 
 ## **Journals**
 - **<u>Dong Ding</u>**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2022. Doi: 10.1109/TCYB.2022.3168854.  <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:5nxA0vEk-isC'></span></strong>
@@ -48,8 +50,20 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Phd Student*.
 
 # 💬 Main Collaborations
-- Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng, [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
-- Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng, [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
+## **Journals**
+- Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
+- Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
+
+## **Conference papers**
+- Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, pp. 4766-4771.
+- Xiangfei Zhu, **<u>Dong Ding</u>**, Ze Tang. [Cluster synchronization of nonlinearly coupled Lur'e networks with non-identical nodes under adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9901864/), *41st Chinese Control Conference (CCC)*, 2022, pp. 67-72.
+- Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13th Asian Control Conference (ASCC)*, 2022, pp. 280-285.
+- KunPeng Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive consensus of nonlinear multi-agent systems with hybrid delays](https://ieeexplore.ieee.org/abstract/document/9728607/), *China Automation Congress (CAC)*, 2021, pp. 3968-3973.
+- Jiafeng Wang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Saturated adaptive pinning control and consensus of discontinuous multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9455563/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 156-161.
+- Chenhui Jiang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Randomly occurring cluster synchronization of complex networks via adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9455459/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 150-155.
+- Deli Xuan, **<u>Dong Ding</u>**, Ze Tang. [Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix](https://ieeexplore.ieee.org/abstract/document/9164731/), *32rd Chinese Control And Decision Conference (CCDC)*, 2020, pp. 1475-1480.
+- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32rd Chinese Control And Decision Conference (CCDC)*, 2020, pp. 1481-1486.
+
 
 # 📖 Educations
 - *2021.02 - 2022.02* &nbsp; School of Electrical Engineering, Yeungnam University, Gyeongsangbuk-do, Korea.
