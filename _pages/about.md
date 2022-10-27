@@ -64,8 +64,11 @@ My research interest includes exponential synchronization, impulsive control, se
 - Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32rd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1481-1486.
 
 
-# 📖 Education and Work Experience
+# 📖 Experience
+## **Work**
 - *2022.09 - now* &nbsp; School of Electrical Engineering, Shanghai Dianji University, Shanghai, China.
+
+## **Education**
 - *2021.02 - 2022.02* &nbsp; School of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering, Jiangnan University, Wuxi, China. 
 - *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
