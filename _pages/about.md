@@ -65,7 +65,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 
 # 📖 Educations
-- *2021.02 - 2022.02* &nbsp; School of Electrical Engineering, Yeungnam University, Gyeongsangbuk-do, Korea.
+- *2021.02 - 2022.02* &nbsp; School of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering, Jiangnan University, Wuxi, China. 
 - *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
 
