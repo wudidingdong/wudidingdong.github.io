@@ -55,12 +55,12 @@ My research interest includes exponential synchronization, impulsive control, se
 ## **Conference papers**
 - Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, pp. 4766-4771.
 - Xiangfei Zhu, **<u>Dong Ding</u>**, Ze Tang. [Cluster synchronization of nonlinearly coupled Lur'e networks with non-identical nodes under adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9901864/), *41st Chinese Control Conference (CCC)*, 2022, pp. 67-72.
-- Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13th Asian Control Conference (ASCC)*, 2022, pp. 280-285.
+- Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13rd Asian Control Conference (ASCC)*, 2022, pp. 280-285.
 - KunPeng Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive consensus of nonlinear multi-agent systems with hybrid delays](https://ieeexplore.ieee.org/abstract/document/9728607/), *China Automation Congress (CAC)*, 2021, pp. 3968-3973.
 - Jiafeng Wang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Saturated adaptive pinning control and consensus of discontinuous multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9455563/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 156-161.
 - Chenhui Jiang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Randomly occurring cluster synchronization of complex networks via adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9455459/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 150-155.
-- Deli Xuan, **<u>Dong Ding</u>**, Ze Tang. [Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix](https://ieeexplore.ieee.org/abstract/document/9164731/), *32rd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1475-1480.
-- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32rd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1481-1486.
+- Deli Xuan, **<u>Dong Ding</u>**, Ze Tang. [Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix](https://ieeexplore.ieee.org/abstract/document/9164731/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1475-1480.
+- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1481-1486.
 
 
 # 📖 Experience
