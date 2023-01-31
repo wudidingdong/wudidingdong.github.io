@@ -30,4 +30,4 @@ with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
     
 with open(f'results/gs_data_shieldsio.json_2', 'w') as outfile:
-    json.dump(shieldio_data, outfile, ensure_ascii=False)
+    json.dump(shieldio_data_2, outfile, ensure_ascii=False)
