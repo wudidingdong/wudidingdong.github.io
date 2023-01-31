@@ -20,14 +20,5 @@ shieldio_data = {
   "message": f"{author['citedby']}",
 }
 
-shieldio_data_2 = {
-  "schemaVersion": 2,
-  "label": "h_index",
-  "message": f"{author['hindex']}",
-}
-
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
-    
-with open(f'results/gs_data_shieldsio.json_2', 'w') as outfile:
-    json.dump(shieldio_data_2, outfile, ensure_ascii=False)
