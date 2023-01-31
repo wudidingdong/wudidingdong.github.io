@@ -7,7 +7,7 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var h_index = data['hindex']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
+            document.getElementById('h_index').innerHTML = h_index;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
