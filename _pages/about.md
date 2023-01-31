@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University.
 
-My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and <p>{{h_index}}</p>.
+My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and h-index <p>{{h_index}}</p>.
 
 
 # 🔥 News
