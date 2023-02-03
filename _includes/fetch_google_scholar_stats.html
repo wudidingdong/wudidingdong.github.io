@@ -8,6 +8,8 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var h_index = data['hindex'];
             document.getElementById('aaa').innerHTML = h_index;
+            var cite_per = data['cites_per_year'];
+            document.getElementById('bbb').innerHTML = cite_per;
             // var totalCitation = data['citedby']
             // document.getElementById('total_cit').innerHTML = totalCitation;
             var citationEles = document.getElementsByClassName('show_paper_citations')
