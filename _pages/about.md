@@ -25,28 +25,6 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. <span id=2020></span>  <span id=36></span>
 
-<script type="text/javascript">
-  option = {
-  xAxis: {
-    type: 'category',
-    data: ['2019', '2020', '2021', '2022', '2023']
-  },
-  yAxis: {
-    type: 'value'
-  },
-  series: [
-    {
-      data: [1, 2, 7, 36, 8],
-      type: 'bar',
-      showBackground: true,
-      backgroundStyle: {
-        color: 'rgba(180, 180, 180, 0.2)'
-      }
-    }
-  ]
-};
-</script>
-
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
