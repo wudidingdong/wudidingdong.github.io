@@ -10,17 +10,15 @@
             document.getElementById('aaa').innerHTML = h_index;
             
             var cite_per = {
-                "cites_per_year": {
                     "2019": 1,
                     "2020": 2,
                     "2021": 7,
                     "2022": 36,
                     "2023": 8
-                }
             };
             
-            for (var year in cite_per.cites_per_year) {
-                var value = cite_per.cites_per_year[year];
+            for (var year in cite_per) {
+                var value = cite_per[year];
                 document.getElementById(year).innerHTML = value;
             };
             
