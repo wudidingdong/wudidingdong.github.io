@@ -21,36 +21,6 @@ Welcome to my academic page. I am now working at School of Electrical Engineerin
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and h-index is <span style="color:blue"><span id='aaa'></span></span>.
 
-<script type="text/javascript">
-  import * as echarts from 'echarts';
-  
-  var chartDom = document.getElementById('main');
-  var myChart = echarts.init(chartDom);
-  var option;
-
-  option = {
-    xAxis: {
-      type: 'category',
-      data: ['2019', '2020', '2021', '2022', '2023']
-    },
-    yAxis: {
-      type: 'value'
-    },
-    series: [
-      {
-        data: [1, 2, 7, 36, 8],
-        type: 'bar',
-        showBackground: true,
-        backgroundStyle: {
-          color: 'rgba(180, 180, 180, 0.2)'
-        }
-      }
-    ]
-  };
-
-  option && myChart.setOption(option);
-</script>
-
 # 🔥 News
 - *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. <span id=2020></span>  <span id=36></span>
