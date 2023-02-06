@@ -42,7 +42,7 @@ My research interest includes exponential synchronization, impulsive control, se
     <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
   </head>
   <body>
-    <div id="main" style="width: 600px;height:400px;"></div>
+    <div id="main" style="width: 60px;height:40px;"></div>
     <script type="text/javascript">
       var myChart = echarts.init(document.getElementById('main'));
 
