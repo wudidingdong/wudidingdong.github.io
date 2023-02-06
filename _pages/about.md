@@ -34,40 +34,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022. 
 - Ze Tang, **<u>Dong Ding</u>**, Ju H. Park, [Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy](https://link.springer.com/chapter/10.1007/978-3-030-49123-9_20), J H Park, ed.//*Recent Advances in Control Problems of Dynamical Systems and Networks*. Cham: Springer International Publishing, 2021: 477-498. 
 
-var dom = document.getElementById('chart-container');
-var myChart = echarts.init(dom, null, {
-  renderer: 'canvas',
-  useDirtyRect: false
-});
-var app = {};
-
-var option;
-
-option = {
-  xAxis: {
-    type: 'category',
-    data: ['2019', '2020', '2021', '2022', '2023']
-  },
-  yAxis: {
-    type: 'value'
-  },
-  series: [
-    {
-      data: [1, 2, 7, 36, 8],
-      type: 'bar',
-      showBackground: true,
-      backgroundStyle: {
-        color: 'rgba(180, 180, 180, 0.2)'
-      }
-    }
-  ]
-};
-
-if (option && typeof option === 'object') {
-  myChart.setOption(option);
-}
-
-window.addEventListener('resize', myChart.resize);
+<script src="citation_fig.js"></script>
 
 ## **Journal papers**
 - **<u>Dong Ding</u>**, Ze Tang, Ju H. Park, Yan Wang, Zhicheng Ji. [Dynamic self-triggered impulsive synchronization of complex networks with mismatched parameters and distributed delay](https://ieeexplore.ieee.org/abstract/document/9774960/), *IEEE Transactions on Cybernetics*, 2023, 53(2): 887-899. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:5nxA0vEk-isC'></span></strong>
