@@ -39,40 +39,36 @@ My research interest includes exponential synchronization, impulsive control, se
   <head>
     <meta charset="utf-8" />
     <title>ECharts</title>
-    <!-- 引入刚刚下载的 ECharts 文件 -->
-    <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
+    <script src="echarts.js"></script>
   </head>
   <body>
-    <!-- 为 ECharts 准备一个定义了宽高的 DOM -->
     <div id="main" style="width: 600px;height:400px;"></div>
     <script type="text/javascript">
-      // 基于准备好的dom，初始化echarts实例
       var myChart = echarts.init(document.getElementById('main'));
 
-      // 指定图表的配置项和数据
-      var option;
 
-option = {
-  xAxis: {
-    type: 'category',
-    data: ['2019', '2020', '2021', '2022', '2023']
-  },
-  yAxis: {
-    type: 'value'
-  },
-  series: [
-    {
-      data: [1, 2, 7, 36, 8],
-      type: 'bar',
-      showBackground: true,
-      backgroundStyle: {
-        color: 'rgba(180, 180, 180, 0.2)'
-      }
-    }
-  ]
-};
+      var option = {
+        title: {
+          text: 'citations per year'
+        },
+        tooltip: {},
+        legend: {
+          data: ['citations']
+        },
+        xAxis: {
+          data: ['2019', '2020', '2021', '2022', '2023']
+        },
+        yAxis: {},
+        series: [
+          {
+            name: 'citations number',
+            type: 'bar',
+            data: [1, 2, 7, 36, 8]
+          }
+        ]
+      };
 
-option && myChart.setOption(option);
+      myChart.setOption(option);
     </script>
   </body>
 </html>
