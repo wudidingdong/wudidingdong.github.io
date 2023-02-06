@@ -9,15 +9,6 @@
             var h_index = data['hindex'];
             document.getElementById('aaa').innerHTML = h_index;
             
-            var cite_per = data['cites_per_year'];
-            
-            for (var year in cite_per) {
-                var value = cite_per[year];
-                document.getElementById(year).innerHTML = value;
-            };
-            
-            // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
