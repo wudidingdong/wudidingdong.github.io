@@ -39,7 +39,7 @@ My research interest includes exponential synchronization, impulsive control, se
   <head>
     <meta charset="utf-8" />
     <title>ECharts</title>
-    <script src="echarts.js"></script>
+    <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script>
   </head>
   <body>
     <div id="main" style="width: 600px;height:400px;"></div>
