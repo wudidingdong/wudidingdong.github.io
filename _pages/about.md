@@ -49,7 +49,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
       var option = {
         title: {
-          text: 'citations per year'
+          text: 'citations_peryear'
         },
         tooltip: {},
         legend: {
@@ -61,7 +61,7 @@ My research interest includes exponential synchronization, impulsive control, se
         yAxis: {},
         series: [
           {
-            name: 'citations number',
+            name: 'number',
             type: 'bar',
             data: [1, 2, 7, 36, 8]
           }
