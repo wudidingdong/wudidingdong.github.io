@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University.
+Welcome to my academic page. I am now working at School of Electrical Engineering (电气学院), Shanghai Dianji University (上海电机学院).
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and h-index is <span style="color:blue"><span id='aaa'></span></span>.
 
 # 🔥 News
-- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
-- *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. <span id=2020></span>  <span id=36></span>
+- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University (上海电机学院).
+- *2022.06*: &nbsp; Graduate from Jiangnan University (江南大学) and get Ph. D. degree. 
 
 # 📝 Publications 
 
@@ -68,8 +68,8 @@ My research interest includes exponential synchronization, impulsive control, se
 
 ## **Education**
 - *2021.02 - 2022.02* &nbsp; School of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
-- *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering, Jiangnan University, Wuxi, China. 
-- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering, Shanghai Dianji University, Shanghai, China. 
+- *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering (物联网工程学院), Jiangnan University (江南大学), Wuxi, China. 
+- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (电气学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
 
 # 💻 Reviewer
 - *IEEE Transactions on Cybernetics*
