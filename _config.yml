@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ding Dong"
+title                    : "丁东 Ding Dong"
 description              : "This is Ding Dong's academic page."
 repository               : "wudidingdong/wudidingdong.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ding Dong"
+  name             : "丁东 Ding Dong"
   avatar           : "images/richdog.jpg"
   bio              : "School of Electrical Engineering, Shanghai Dianji University"
   location         : "Shanghai, China"
