@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic page. I am now working at School of Electrical Engineering (电气学院), Shanghai Dianji University (上海电机学院).
+Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University.
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and h-index is <span style="color:blue"><span id='aaa'></span></span>.
 
 # 🔥 News
-- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University (上海电机学院).
-- *2022.06*: &nbsp; Graduate from Jiangnan University (江南大学) and get Ph. D. degree. 
+- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
+- *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. 
 
 # 📝 Publications 
 
