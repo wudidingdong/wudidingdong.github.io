@@ -26,13 +26,6 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/book_2022.png' alt="sym" width="30%"></div></div>
-<div class='paper-box-text' markdown="1">
-  - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022.
-</div>
-</div>
-           
 ## **Books and Chapters** 
 - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022. 
 - Ze Tang, **<u>Dong Ding</u>**, Ju H. Park, [Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy](https://link.springer.com/chapter/10.1007/978-3-030-49123-9_20), J H Park, ed.//*Recent Advances in Control Problems of Dynamical Systems and Networks*. Cham: Springer International Publishing, 2021: 477-498. 
