@@ -6,8 +6,8 @@
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var h_index = data['hindex'];
-            document.getElementById('aaa').innerHTML = h_index;
+            // var h_index = data['hindex'];
+            // document.getElementById('aaa').innerHTML = h_index;
             
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
