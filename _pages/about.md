@@ -49,6 +49,7 @@ My research interest includes exponential synchronization, impulsive control, se
 ## **Journal papers**
 - Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2022. Doi: 10.1016/j.isatra.2022.06.031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
+- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Adaptive cluster synchronization of complex networks with identical and nonidentical Lur’e systems](https://www.mdpi.com/2079-9292/9/5/706), *Electronics*, 2020, 9(5): 706. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 ## **Conference papers**
 - Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, pp. 4766-4771.
