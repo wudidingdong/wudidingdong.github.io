@@ -74,6 +74,7 @@ My research interest includes exponential synchronization, impulsive control, se
 # 💻 Reviewer
 - *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Neural Networks and Learning Systems*
+- *Information Sciences*
 - *Chaos, Solitons and Fractals*
 - *Applied Mathematics and Computation*
 - *ISA Transactions*
