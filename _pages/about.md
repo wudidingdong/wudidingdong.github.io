@@ -24,9 +24,9 @@ My research interest includes exponential synchronization, impulsive control, se
 <!--<span id='aaa'></span>-->
 
 
-# 🔥 News
+<!--# 🔥 News
 - *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
-- *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. 
+- *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. -->
 
 # 📝 Publications 
 ## **Books and Chapters** 
@@ -48,7 +48,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 # 💬 Main Collaborations
 ## **Journal papers**
-- Xiangfei Zhu, Ze Tang, Jianwen Feng, **<u>Dong Ding</u>**. [Aperiodically intermittent pinning cluster synchronization of complex networks with hybrid delays: a region-division event-triggered protocol](https://www.sciencedirect.com/science/article/pii/S0016003223005197), *Journal of the Franklin Institute*, 2023, 360(15): 11094-11113. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:KlAtU1dfN6UC'></span></strong>
+- Xiangfei Zhu, Ze Tang, Jianwen Feng, **<u>Dong Ding</u>**. [Aperiodically intermittent pinning cluster synchronization of complex networks with hybrid delays: A region-division event-triggered protocol](https://www.sciencedirect.com/science/article/pii/S0016003223005197), *Journal of the Franklin Institute*, 2023, 360(15): 11094-11113. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:KlAtU1dfN6UC'></span></strong>
 - Jiafeng Wang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Aperiodically intermittent saturation consensus on multi-agent systems with discontinuous dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0019057822003408), *ISA Transactions*, 2023, 133: 66-74. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:MXK_kJrjxJIC'></span></strong>
 - Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Adaptive cluster synchronization of complex networks with identical and nonidentical Lur’e systems](https://www.mdpi.com/2079-9292/9/5/706), *Electronics*, 2020, 9(5): 706. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:2osOgNQ5qMEC'></span></strong>
