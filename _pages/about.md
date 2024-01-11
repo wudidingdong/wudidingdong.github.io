@@ -45,6 +45,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 # 🎖 Honors and Awards
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
+- *2024.01*: &nbsp; Shanghai Chenguang Program (晨光计划), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 
 # 💬 Main Collaborations
 ## **Journal papers**
