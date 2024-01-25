@@ -44,8 +44,8 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 # 🎖 Honors and Awards
+- *2024.01*: &nbsp; Shanghai Chenguang Program (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
-- *2024.01*: &nbsp; Shanghai Chenguang Program (晨光计划), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 
 # 💬 Main Collaborations
 ## **Journal papers**
