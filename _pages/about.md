@@ -45,8 +45,8 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 # 🎖 Grants and Awards
-- *2024.06*: &nbsp; The foundation of key laboratory of Advanced Process Control for Light Industry (重点实验室开放课题), Ministry of Education, P. R. China.
-- *2024.01*: &nbsp; Shanghai Chenguang Program (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
+- *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
+- *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
 
 # 💬 Main Collaborations
@@ -76,7 +76,7 @@ My research interest includes exponential synchronization, impulsive control, se
 ## **Education**
 - *2021.02 - 2022.02* &nbsp; Institute of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering (物联网工程学院), Jiangnan University (江南大学), Wuxi, China. 
-- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (电气学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
+- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
 
 # 💻 Reviewer
 - *IEEE Transactions on Cybernetics*
