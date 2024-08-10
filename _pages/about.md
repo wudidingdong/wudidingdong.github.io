@@ -92,5 +92,5 @@ My research interest includes exponential synchronization, impulsive control, se
 - *International Journals of Control, Automation and Systems*
 - *Neural Processing Letters*
 
-# 💻 Other
+## **Other**
 - As a member in Doctoral Think Tank Working Committee - Yangtze River Delta Committee (博士智库长三角委员会).
