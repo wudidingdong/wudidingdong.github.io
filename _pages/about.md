@@ -73,6 +73,9 @@ My research interest includes exponential synchronization, impulsive control, se
 
 
 # 📖 Experience
+## **Academic adjuncts**
+- *2024.08 - now* &nbsp; As a member in Doctoral Think Tank Working Committee - Yangtze River Delta Committee (博士智库长三角委员会).
+
 ## **Work**
 - *2022.09 - now* &nbsp; School of Electrical Engineering, Shanghai Dianji University, Shanghai, China.
 
@@ -91,6 +94,3 @@ My research interest includes exponential synchronization, impulsive control, se
 - *Nonlinear Dynamics*
 - *International Journals of Control, Automation and Systems*
 - *Neural Processing Letters*
-
-## **Other**
-- As a member in Doctoral Think Tank Working Committee - Yangtze River Delta Committee (博士智库长三角委员会).
