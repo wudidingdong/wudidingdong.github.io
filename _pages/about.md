@@ -44,6 +44,9 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Ze Tang, Yan Wang, Zhicheng Ji. [Adaptive synchronization of complex dynamical networks via distributed pinning impulsive control](https://link.springer.com/article/10.1007/s11063-020-10373-x), *Neural Processing Letters*, 2020, 52(3): 2669-2686. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:9yKSN-GCB0IC'></span></strong>
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
+## **Conference papers**
+- **<u>Dong Ding</u>**, Boling Zhou，Fengzeng Zhu，Qi Chang，Chuanbo Wen. Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
+
 # 🎖 Grants and Awards
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
@@ -57,8 +60,8 @@ My research interest includes exponential synchronization, impulsive control, se
 - Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Adaptive cluster synchronization of complex networks with identical and nonidentical Lur’e systems](https://www.mdpi.com/2079-9292/9/5/706), *Electronics*, 2020, 9(5): 706. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
-
 ## **Conference papers**
+- Haitao Zhang，**<u>Dong Ding</u>**，Ze Tang. Hybrid-impulses-based distributed combinatorial secondary control for island DC microgrids, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
 - Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, pp. 4766-4771.
 - Xiangfei Zhu, **<u>Dong Ding</u>**, Ze Tang. [Cluster synchronization of nonlinearly coupled Lur'e networks with non-identical nodes under adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9901864/), *41st Chinese Control Conference (CCC)*, 2022, pp. 67-72.
 - Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13th Asian Control Conference (ASCC)*, 2022, pp. 280-285.
@@ -78,7 +81,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering (物联网工程学院), Jiangnan University (江南大学), Wuxi, China. 
 - *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
 
-# 💻 Reviewer
+## **Reviewer**
 - *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Neural Networks and Learning Systems*
 - *Information Sciences*
@@ -88,3 +91,6 @@ My research interest includes exponential synchronization, impulsive control, se
 - *Nonlinear Dynamics*
 - *International Journals of Control, Automation and Systems*
 - *Neural Processing Letters*
+
+# 💻 Other
+- As a member in Doctoral Think Tank Working Committee - Yangtze River Delta Committee (博士智库长三角委员会).
