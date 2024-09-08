@@ -86,8 +86,11 @@ My research interest includes exponential synchronization, impulsive control, se
 - *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
 
 ## **Reviewer**
+- *IEEE Transactions on Automatic Control*
+- *IEEE Transactions on Fuzzy Systems*
 - *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Neural Networks and Learning Systems*
+- *IEEE Transactions on Automation Science and Engineering*
 - *Information Sciences*
 - *Chaos, Solitons and Fractals*
 - *Applied Mathematics and Computation*
