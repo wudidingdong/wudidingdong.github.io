@@ -49,6 +49,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
 
 # 🎖 Grants and Awards
+- *2024.10*: &nbsp; Outstanding oral presentation award (2/3), presented by ICoCTA 2024.
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
