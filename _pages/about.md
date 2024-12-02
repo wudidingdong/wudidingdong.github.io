@@ -49,14 +49,14 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
 
 # 🎖 Grants and Awards
-- *2024.10*: &nbsp; Outstanding oral presentation award (2/3), presented by ICoCTA 2024.
+- *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
 
 # 💬 Main Collaborations
 ## **Journal papers**
-- Qingshuo Duan, Ze Tang, **<u>Dong Ding</u>**, Ju H. Park. [Distributed adaptive optimal secondary control for AC islanded microgrid based on dynamic self-triggered rules](https://ieeexplore.ieee.org/document/10770284), *IEEE Transactions on Power Systems*, 2024. Doi: 10.1109/TPWRS.2024.3507926.
+- Qingshuo Duan, Ze Tang, **<u>Dong Ding</u>**, Ju H. Park. [Distributed adaptive optimal secondary control for AC islanded microgrid based on dynamic self-triggered rules](https://ieeexplore.ieee.org/document/10770284), *IEEE Transactions on Power Systems*, 2024, doi: 10.1109/TPWRS.2024.3507926. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:qxL8FJ1GzNcC'></span></strong>
 - Zhenwei Liang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Bipartite formation control of second-order multi-agent systems with antagonistic interactions under dynamic event-triggered adaptive schemes](https://www.sciencedirect.com/science/article/pii/S0020025524015202), *Information Sciences*, 2024, 690: 121606. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:M3ejUd6NZC8C'></span></strong>
 - Ziqing Geng, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Delay-compensatory synchronization on uncertain chaotic neural networks via average delayed impulsive gains](https://www.sciencedirect.com/science/article/abs/pii/S0016003224006562), *Journal of the Franklin Institute*, 2024, 361(17): 107235. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:_kc_bZDykSQC'></span></strong>
 - Zhihan Ma, Ze Tang, Jianwen Feng, **<u>Dong Ding</u>**. [Distributed formation containment control for multi-agent systems via dynamic event-triggering communication mechanism](https://www.sciencedirect.com/science/article/pii/S0096300324004193?dgcid=coauthor), *Applied Mathematics and Computation*, 2024, 482: 128958. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:YOwf2qJgpHMC'></span></strong>
