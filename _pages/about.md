@@ -56,6 +56,7 @@ My research interest includes exponential synchronization, impulsive control, se
 
 # 💬 Main Collaborations
 ## **Journal papers**
+- Zhihan Ma, **<u>Dong Ding</u>**, Ze Tang. Containment control for nonlinear multi-agent systems under distributed event-triggering intermittent schemes, *International Journal of Robust and Nonlinear Control*, 2025, accepted.
 - Qingshuo Duan, Ze Tang, **<u>Dong Ding</u>**, Ju H. Park. [Distributed adaptive optimal secondary control for AC islanded microgrid based on dynamic self-triggered rules](https://ieeexplore.ieee.org/document/10770284), *IEEE Transactions on Power Systems*, 2024, doi: 10.1109/TPWRS.2024.3507926. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:qxL8FJ1GzNcC'></span></strong>
 - Zhenwei Liang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Bipartite formation control of second-order multi-agent systems with antagonistic interactions under dynamic event-triggered adaptive schemes](https://www.sciencedirect.com/science/article/pii/S0020025524015202), *Information Sciences*, 2024, 690: 121606. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:M3ejUd6NZC8C'></span></strong>
 - Ziqing Geng, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Delay-compensatory synchronization on uncertain chaotic neural networks via average delayed impulsive gains](https://www.sciencedirect.com/science/article/abs/pii/S0016003224006562), *Journal of the Franklin Institute*, 2024, 361(17): 107235. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:_kc_bZDykSQC'></span></strong>
