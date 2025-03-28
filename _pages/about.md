@@ -47,7 +47,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Zhicheng Ji, Yan Wang<sup>&#42;</sup>. [Research on surface roughness prediction method based on composite penalty regression model](https://www.worldscientific.com/doi/abs/10.1142/S0217984918401152), *Modern Physics Letters B*, 2018, 32: 1840115. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 ## **Conference papers**
-- **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
+- **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. [Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss](https://ieeexplore.ieee.org/document/10933741), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 36-40.
 
 # 🎖 Grants and Awards
 - *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
@@ -69,15 +69,16 @@ My research interest includes exponential synchronization, impulsive control, se
 - Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Adaptive cluster synchronization of complex networks with identical and nonidentical Lur’e systems](https://www.mdpi.com/2079-9292/9/5/706), *Electronics*, 2020, 9(5): 706. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 ## **Conference papers**
-- Haitao Zhang，**<u>Dong Ding</u>**，Ze Tang. Hybrid-impulses-based distributed combinatorial secondary control for island DC microgrids, *4th International Conference on Control Theory and Applications (ICoCTA)*, 2024, accepted.
-- Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, pp. 4766-4771.
-- Xiangfei Zhu, **<u>Dong Ding</u>**, Ze Tang. [Cluster synchronization of nonlinearly coupled Lur'e networks with non-identical nodes under adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9901864/), *41st Chinese Control Conference (CCC)*, 2022, pp. 67-72.
-- Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13th Asian Control Conference (ASCC)*, 2022, pp. 280-285.
-- KunPeng Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive consensus of nonlinear multi-agent systems with hybrid delays](https://ieeexplore.ieee.org/abstract/document/9728607/), *China Automation Congress (CAC)*, 2021, pp. 3968-3973.
-- Jiafeng Wang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Saturated adaptive pinning control and consensus of discontinuous multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9455563/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 156-161.
-- Chenhui Jiang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Randomly occurring cluster synchronization of complex networks via adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9455459/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, pp. 150-155.
-- Deli Xuan, **<u>Dong Ding</u>**, Ze Tang. [Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix](https://ieeexplore.ieee.org/abstract/document/9164731/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1475-1480.
-- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, pp. 1481-1486.
+- Haodong Bian，**<u>Dong Ding</u>**，Ze Tang. [Distributed synchronization control on complex dynamical networks with multiple delay and hybrid impluses](https://ieeexplore.ieee.org/document/10933653), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 54-58.
+- Haitao Zhang，**<u>Dong Ding</u>**，Ze Tang. [Hybrid-impulses-based distributed combinatorial secondary control for island DC microgrids](https://ieeexplore.ieee.org/document/10933657), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 49-53.
+- Boxun Chen, **<u>Dong Ding</u>**, Ze Tang. [Distributed impulsive consensus of nonlinear multi-agent systems via matrix measure protocol](https://ieeexplore.ieee.org/abstract/document/9902281), *41st Chinese Control Conference (CCC)*, 2022, 4766-4771.
+- Xiangfei Zhu, **<u>Dong Ding</u>**, Ze Tang. [Cluster synchronization of nonlinearly coupled Lur'e networks with non-identical nodes under adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9901864/), *41st Chinese Control Conference (CCC)*, 2022, 67-72.
+- Zhihua Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive pinning synchronization on Lur’e dynamical networks with hybrid time-varying delays](https://ieeexplore.ieee.org/abstract/document/9828339/), *13th Asian Control Conference (ASCC)*, 2022, 280-285.
+- KunPeng Wang, **<u>Dong Ding</u>**, Ze Tang. [Impulsive consensus of nonlinear multi-agent systems with hybrid delays](https://ieeexplore.ieee.org/abstract/document/9728607/), *China Automation Congress (CAC)*, 2021, 3968-3973.
+- Jiafeng Wang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Saturated adaptive pinning control and consensus of discontinuous multi-agent systems](https://ieeexplore.ieee.org/abstract/document/9455563/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, 156-161.
+- Chenhui Jiang, **<u>Dong Ding</u>**, Jiancheng Zhang, Ze Tang. [Randomly occurring cluster synchronization of complex networks via adaptive pinning control](https://ieeexplore.ieee.org/abstract/document/9455459/), *10th Data Driven Control and Learning Systems Conference (DDCLS)*, 2021, 150-155.
+- Deli Xuan, **<u>Dong Ding</u>**, Ze Tang. [Adaptive pinning synchronization on nonlinearly coupled complex networks with an asymmetrical matrix](https://ieeexplore.ieee.org/abstract/document/9164731/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, 1475-1480.
+- Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Global synchronization of nonlinearly coupled Lur’e networks via adaptive feedback control](https://ieeexplore.ieee.org/abstract/document/9164879/), *32nd Chinese Control and Decision Conference (CCDC)*, 2020, 1481-1486.
 
 
 # 📖 Experience
