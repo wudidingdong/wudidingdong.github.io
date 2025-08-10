@@ -1,0 +1,55 @@
+name: Update Google Scholar Stats
+
+on:
+  # 允许您在Actions页面手动触发此工作流
+  workflow_dispatch:
+  
+  # 设置定时任务，使用CRON表达式
+  # 下面的表达式表示在每天的UTC时间8点整运行 (对应北京时间下午4点)
+  # 您可以根据需要修改
+  schedule:
+    - cron: '0 8,20 * * *'
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      # 第一步：检出您的代码仓库
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # 第二步：设置Python环境
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # 第三步：安装Python依赖库
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install scholarly
+
+      # 第四步：运行Python脚本来更新HTML文件
+      - name: Run Python script to update stats
+        env:
+          # 将您的谷歌学术ID作为环境变量传递给Python脚本
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: python update_scholar_stats.py
+
+      # 第五步：提交并推送更改
+      - name: Commit and push changes
+        run: |
+          # 配置git的用户信息
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 检查是否有文件变动
+          if [[ -n $(git status -s) ]]; then
+            echo "文件已更新，正在提交..."
+            git add index.html
+            git commit -m "自动化: 更新谷歌学术统计数据"
+            git push
+          else
+            echo "文件无变化，无需提交。"
+          fi
