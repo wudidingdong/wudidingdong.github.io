@@ -1,0 +1,44 @@
+name: Deploy gs_data.json to main
+
+on:
+  push:
+    branches:
+      - google-scholar-stats  # 监控 google-scholar-stats 分支
+
+permissions:
+  contents: write  # 允许推送到 main 分支
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出 google-scholar-stats 分支
+      - name: Checkout google-scholar-stats branch
+        uses: actions/checkout@v4
+        with:
+          ref: google-scholar-stats
+
+      # 复制 gs_data.json 到临时文件夹
+      - name: Copy gs_data.json to temp
+        run: |
+          mkdir temp
+          cp gs_data.json temp/
+
+      # 检出 main 分支
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main-branch
+
+      # 覆盖并推送 gs_data.json
+      - name: Move gs_data.json into main branch
+        run: |
+          cp temp/gs_data.json main-branch/
+          cd main-branch
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gs_data.json
+          git commit -m "Update gs_data.json from google-scholar-stats" || echo "No changes to commit"
+          git push origin main
