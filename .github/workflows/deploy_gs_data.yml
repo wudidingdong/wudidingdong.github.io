@@ -34,7 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b update-gs-data
           git add _data/gs_data.json
           git commit -m "Update gs_data.json from google-scholar-stats" || echo "No changes to commit"
 
