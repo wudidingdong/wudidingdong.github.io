@@ -28,13 +28,28 @@ jobs:
           mkdir -p _data
           cp gs/gs_data.json ./_data/gs_data.json
 
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b update-gs-data
           git add _data/gs_data.json
-          if git commit -m "Update gs_data.json from google-scholar-stats"; then
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "Update gs_data.json from google-scholar-stats" || echo "No changes to commit"
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          branch: update-gs-data
+          title: "Update gs_data.json"
+          body: "Automated update of gs_data.json from google-scholar-stats"
+          base: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Enable auto-merge
+        if: steps.cpr.outputs.pull-request-operation == 'created'
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
