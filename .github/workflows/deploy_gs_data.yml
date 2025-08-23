@@ -1,9 +1,10 @@
 name: Deploy GS Data
 
 on:
-  workflow_dispatch:   # 手动触发
-  schedule:
-    - cron: "0 */12 * * *"   # 每12小时运行一次，你也可以改成每天
+  workflow_run:
+    workflows: ["Get Citation Data"]  # 必须和google_scholar_crawler.yaml里的name一致
+    types:
+      - completed
 
 jobs:
   sync:
@@ -14,26 +15,28 @@ jobs:
 
     steps:
       - name: Checkout main branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           ref: main
 
       - name: Checkout google-scholar-stats branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           ref: google-scholar-stats
-          path: scholar
+          path: gs
 
       - name: Copy gs_data.json to main branch
         run: |
-          cp scholar/gs_data.json ./gs_data.json
+          mkdir -p _data
+          cp gs/gs_data.json ./_data/gs_data.json
 
       - name: Commit changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add gs_data.json
-          git commit -m "Update gs_data.json" || echo "No changes to commit"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b update-gs-data
+          git add _data/gs_data.json
+          git commit -m "Update gs_data.json from google-scholar-stats" || echo "No changes to commit"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
