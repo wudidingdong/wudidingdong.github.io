@@ -3,6 +3,7 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
+from scholarly import ProxyGenerator
 
 # 添加代理配置
 pg = ProxyGenerator()
