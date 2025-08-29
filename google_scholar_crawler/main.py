@@ -3,14 +3,6 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
-from scholarly import ProxyGenerator
-
-# 添加代理配置
-pg = ProxyGenerator()
-success = pg.FreeProxies()  # 使用免费代理
-if not success:
-    raise Exception("Failed to set up free proxies")
-scholarly.use_proxy(pg)  # 应用代理
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
