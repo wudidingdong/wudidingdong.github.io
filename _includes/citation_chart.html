@@ -1,10 +1,9 @@
-<div class="chart-container" style="position: relative; height:40vh; width:80vw; margin: auto;">
+<div class="chart-container" style="float: right; width: 45%; min-width: 300px; margin-left: 20px; margin-bottom: 10px;">
     <canvas id="citationChart"></canvas>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // 直接从 google-scholar-stats 分支获取最新的 JSON 数据
     fetch('https://raw.githubusercontent.com/wudidingdong/wudidingdong.github.io/google-scholar-stats/gs_data.json')
         .then(response => {
             if (!response.ok) {
@@ -15,18 +14,17 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(data => {
             const citationData = data.cites_per_year;
 
-            // 准备图表所需的数据
             const years = Object.keys(citationData).sort();
             const counts = years.map(year => citationData[year]);
 
             const ctx = document.getElementById('citationChart').getContext('2d');
             new Chart(ctx, {
-                type: 'bar', // 图表类型：条形图
+                type: 'bar',
                 data: {
-                    labels: years, // X轴：年份
+                    labels: years,
                     datasets: [{
                         label: '年度引用数',
-                        data: counts, // Y轴：引用次数
+                        data: counts,
                         backgroundColor: 'rgba(75, 192, 192, 0.5)',
                         borderColor: 'rgba(75, 192, 192, 1)',
                         borderWidth: 1
@@ -37,14 +35,21 @@ document.addEventListener("DOMContentLoaded", function() {
                         y: {
                             beginAtZero: true,
                             ticks: {
-                                // 确保Y轴刻度为整数
                                 precision: 0
                             }
                         }
                     },
                     plugins: {
                         legend: {
-                            display: false // 不显示图例
+                            display: false
+                        },
+                        // 修改2：在 plugins 中添加了 title 属性
+                        title: {
+                            display: true,
+                            text: '年度引用数 (Citations Per Year)', // 这里是图表的标题
+                            font: {
+                                size: 16 // 可以调整标题字号
+                            }
                         }
                     }
                 }
