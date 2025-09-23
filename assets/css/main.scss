@@ -107,3 +107,9 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Custom styles for text alignment */
+.page__content p,
+.page__content li {
+  text-align: justify;
+}
