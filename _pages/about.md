@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University. I am particularly interested in recruiting graduate students with a strong foundation in **mathematics**, including proficiency in differential equations and calculus. Additionally, familiarity with programming languages such as **MATLAB** will significantly enhance success in graduate studies.
+Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University. I am particularly interested in recruiting graduate students with a strong foundation in **Mathematics**, including proficiency in differential equations and calculus. Additionally, familiarity with programming languages such as **MATLAB** will significantly enhance success in graduate studies.
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and ![h-index](https://img.shields.io/badge/h--index-9-blue).
 
