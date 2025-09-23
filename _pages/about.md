@@ -19,9 +19,11 @@ redirect_from:
 
 {% include citation_chart.html %}
 
-Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University. I am particularly interested in recruiting graduate students with a strong foundation in **Mathematics**, including proficiency in differential equations and calculus. Additionally, familiarity with programming languages such as **MATLAB** will significantly enhance success in graduate studies.
+Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University. 
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and ![h-index](https://img.shields.io/badge/h--index-9-blue).
+
+I am particularly interested in recruiting graduate students with a strong foundation in **Mathematics**, including proficiency in differential equations and calculus. What I am most concerned about is whether you can devote yourself to studying academics including reading papers and trying simulations. Additionally, familiarity with programming languages such as **MATLAB** will significantly enhance success in graduate studies.
 
 <!--<span id='aaa'></span>-->
 
@@ -53,6 +55,7 @@ My research interest includes exponential synchronization, impulsive control, se
 - **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. [Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss](https://ieeexplore.ieee.org/document/10933741), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 36-40.
 
 # 🎖 Grants and Awards
+- *2026.01*: &nbsp; **Youth Foundation C**, granted by NSFC.
 - *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
