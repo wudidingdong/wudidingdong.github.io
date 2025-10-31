@@ -62,8 +62,7 @@ I am particularly interested in recruiting graduate students with a strong found
 - *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
 
 # 💬 Main Collaborations
-## **Journal papers**
-### **Control Sciences**
+## **Journal papers (Control Sciences)**
 - Ziqing Geng, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Delay-compensatory-based event-triggering impulsive control on uncertain chaotic neural networks via average delayed impulsive gains](https://www.sciencedirect.com/science/article/pii/S1007570425007208), *Communications in Nonlinear Science and Numerical Simulation*, 2026, 152: 109311. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:HDshCWvjkbEC'></span></strong>
 - Qinshuo Duan, Ze Tang, **<u>Dong Ding</u>**. [Distributed adaptive optimal secondary control for AC islanded microgrid under multiple event-triggered mechanisms](https://www.sciencedirect.com/science/article/abs/pii/S0019057825002241), *ISA Transactions*, 2025, 163: 65-75. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:7PzlFSSx8tAC'></span></strong>
 - Ziqing Geng, Ze Tang, **<u>Dong Ding</u>**. [Average impulsive estimation-based exponential synchronization of chaotic neural networks with time-varying delayed impulses](https://link.springer.com/article/10.1007/s00521-025-11114-8), *Neural Computing and Applications*, 2025, 37: 11799-11820. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:4DMP91E08xMC'></span></strong>
@@ -77,7 +76,7 @@ I am particularly interested in recruiting graduate students with a strong found
 - Kunpeng Wang, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Leader-Following consensus of nonlinear multi-agent systems with hybrid delays: Distributed impulsive pinning strategy](https://www.sciencedirect.com/science/article/abs/pii/S0096300322001175), *Applied Mathematics and Computation*, 2022, 424: 127031. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:hqOjcs7Dif8C'></span></strong>
 - Yue Gao, **<u>Dong Ding</u>**, Ze Tang. [Adaptive cluster synchronization of complex networks with identical and nonidentical Lur’e systems](https://www.mdpi.com/2079-9292/9/5/706), *Electronics*, 2020, 9(5): 706. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
-### **Computer Sciences**
+## **Journal papers (Computer Sciences)**
 - Xingtao Wu, Yunfei Ding, Ruizhi Zhao, **<u>Dong Ding</u>**, Hongwei Zhang, Lin Wang. [Fault diagnosis model based on multi-strategy adaptive COA and improved weighted kernel ELM: A case study on wind turbine blade icing](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329332), *PLoS One*, 2025, 20(8): e0329332. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:TQgYirikUcIC'></span></strong>
 - Yuxin Si, Yunfei Ding, Fudi Ge, Xingtao Wu, Jinglin Liu, **<u>Dong Ding</u>**, Hongwei Zhang. [A multi-scale defect detection network for wind turbines utilizing margin aware features](https://iopscience.iop.org/article/10.1088/1361-6501/ae08db/meta), *Measurement Science and Technology*, 2025, 36: 095416. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:R3hNpaxXUhUC'></span></strong>
 
