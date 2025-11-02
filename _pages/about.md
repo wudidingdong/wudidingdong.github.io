@@ -55,7 +55,7 @@ I am particularly interested in recruiting graduate students with a strong found
 - **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. [Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss](https://ieeexplore.ieee.org/document/10933741), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 36-40.
 
 # 🎖 Grants and Awards
-- *2026.01*: &nbsp; **Youth Foundation C**, granted by NSFC.
+- *2026.01*: &nbsp; **Youth Foundation C** (国家自然科学基金-青C), granted by NSFC.
 - *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
