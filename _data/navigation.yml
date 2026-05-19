@@ -2,12 +2,12 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "Publications"
-    url: "/#-publications"
     
   - title: "Grants and Awards"
     url: "/#-grants-and-awards"
+
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Main Collaborations"
     url: "/#-main-collaborations"
