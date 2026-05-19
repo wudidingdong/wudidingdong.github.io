@@ -32,6 +32,15 @@ I am particularly interested in recruiting graduate students with a strong found
 - *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. -->
 
+
+# 🎖 Grants and Awards
+- *2026.04*: &nbsp; **3rd Prize** in the 7th Shanghai Higher Education Young Teachers' Teaching Competition.
+- *2026.01*: &nbsp; **Youth Foundation C** (国自然-青C), granted by NSFC.
+- *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
+- *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
+- *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
+- *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
+
 # 📝 Publications 
 ## **Books and Chapters** 
 - Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span></strong>
@@ -53,13 +62,6 @@ I am particularly interested in recruiting graduate students with a strong found
 
 ## **Conference papers**
 - **<u>Dong Ding</u>**, Boling Zhou<sup>&#42;</sup>, Fengzeng Zhu, Qi Chang, Chuanbo Wen. [Bipartite synchronization for complex dynamic networks via impulsive inputs with packet loss](https://ieeexplore.ieee.org/document/10933741), *4th International Conference on Control Theory and Applications (ICoCTA)*, Hangzhou, China, 2024, 36-40.
-
-# 🎖 Grants and Awards
-- *2026.01*: &nbsp; **Youth Foundation C** (国自然-青C), granted by NSFC.
-- *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
-- *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
-- *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
-- *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
 
 # 💬 Main Collaborations
 ## **Journal papers (Control Sciences)**
