@@ -33,12 +33,12 @@ I am particularly interested in recruiting graduate students with a strong found
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. -->
 
 
-# 🎖 Grants and Awards
+<!--# 🎖 Grants and Awards
 - *2026.01*: &nbsp; **Youth Foundation C** (国自然-青C), granted by NSFC.
 - *2024.10*: &nbsp; Outstanding oral presentation award (2/3), granted by ICoCTA 2024.
 - *2024.06*: &nbsp; The foundation of key laboratory of **Advanced Process Control for Light Industry** (重点实验室开放课题), Ministry of Education, P. R. China.
 - *2024.01*: &nbsp; **Shanghai Chenguang Program** (上海市“晨光计划”), funded by Shanghai Education Development Foundation and Shanghai Municipal Education Commission.
-- *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.
+- *2020.08*: &nbsp; A scholarship from the **China Scholarship Council (CSC)** as a *Visiting Ph.D. Student*.-->
 
 # 📝 Publications 
 ## **Books and Chapters** 
