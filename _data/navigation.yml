@@ -2,9 +2,6 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
-  - title: "Grants and Awards"
-    url: "/#-grants-and-awards"
 
   - title: "Publications"
     url: "/#-publications"
