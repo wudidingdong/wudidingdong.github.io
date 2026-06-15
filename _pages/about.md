@@ -42,7 +42,7 @@ I am particularly interested in recruiting graduate students with a strong found
 
 # 📝 Publications 
 ## **Books and Chapters** 
-- Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:UebtZRa9Y70C'></span></strong>
+- Ze Tang, **<u>Dong Ding</u>**, Yan Wang, Zhicheng Ji, Ju H. Park, [Impulsive Synchronization of Complex Dynamical Networks: Modeling, Control and Simulations](https://link.springer.com/book/10.1007/978-981-16-5383-4), Singapore: Springer Singapore, 2022.
 - Ze Tang, **<u>Dong Ding</u>**, Ju H. Park, [Cluster Synchronization on Derivative Coupled Lur’e Networks: Impulsive Pinning Strategy](https://link.springer.com/chapter/10.1007/978-3-030-49123-9_20), Ju H. Park, ed. // *Recent Advances in Control Problems of Dynamical Systems and Networks*. Cham: Springer International Publishing, 2021: 477-498. 
 
 ## **Journal papers**
@@ -64,6 +64,7 @@ I am particularly interested in recruiting graduate students with a strong found
 
 # 💬 Main Collaborations
 ## **Journal papers (Control Sciences)**
+- Xiaobin Liang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Average delayed impulse-gain-based global exponential synchronization on coupled neural networks with hybrid delayed impulses](https://www.sciencedirect.com/science/article/pii/S1007570426006945), *Communications in Nonlinear Science and Numerical Simulation*, 2026, 162: 110340. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:_4JMBOYKVnBMC'></span></strong>
 - Haitao Zhang, Ze Tang, **<u>Dong Ding</u>**, Jianwen Feng. [Advanced distributed cyber-resilient secondary control for islanded AC microgrid with itigating hybrid DoS and impulsive deception attacks](https://link.springer.com/article/10.1007/s11071-026-12283-4), *Nonlinear Dyanmics*, 2026, 114: 410. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:_Qo2XoVZTnwC'></span></strong>
 - Haitao Zhang, **<u>Dong Ding</u>**, Zhigang Zhang, Ze Tang. [Adaptive distributed cyber-resilient secondary control for islanded AC microgrid against switch DoS attacks and unbounded FDI attacks](https://www.sciencedirect.com/science/article/pii/S0378779626000787), *Electric Power Systems Research*, 2026, 255: 112785. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:e5wmG9Sq2KIC'></span></strong>
 - Ziqing Geng, **<u>Dong Ding</u>**, Ze Tang, Jianwen Feng. [Delay-compensatory-based event-triggering impulsive control on uncertain chaotic neural networks via average delayed impulsive gains](https://www.sciencedirect.com/science/article/pii/S1007570425007208), *Communications in Nonlinear Science and Numerical Simulation*, 2026, 152: 109311. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:HDshCWvjkbEC'></span></strong>
