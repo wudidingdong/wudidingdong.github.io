@@ -19,7 +19,7 @@ redirect_from:
 
 {% include citation_chart.html %}
 
-Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai Dianji University. 
+Welcome to my academic page. I am now working at School of Electrical Engineering, Shanghai DianJi University. 
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/wudidingdong/wudidingdong.github.io/google-scholar-stats/gs_data.json&query=$.hindex&label=h-index&labelColor=f6f6f6&color=9cf&style=flat" />.
 
@@ -29,7 +29,7 @@ I am particularly interested in recruiting graduate students with a strong found
 
 
 <!--# 🔥 News
-- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai Dianji University.
+- *2022.09*: &nbsp; Engage in School of Electrical Engineering, Shanghai DianJi University.
 - *2022.06*: &nbsp; Graduate from Jiangnan University and get Ph. D. degree. -->
 
 
@@ -104,12 +104,13 @@ I am particularly interested in recruiting graduate students with a strong found
 - *2024.08 - now* &nbsp; As a member in Doctoral Think Tank Working Committee - Yangtze River Delta Committee (博士智库长三角委员会).
 
 ## **Work**
-- *2022.09 - now* &nbsp; School of Electrical Engineering, Shanghai Dianji University, Shanghai, China.
+- *2022.09 - 2026.05* &nbsp; School of Electrical Engineering, Shanghai DianJi University, Shanghai, China.
+- *2026.06 - now* &nbsp; School of Electrical and Energy Engineering (电气与能源工程学院), Shanghai DianJi University Shanghai, China.
 
 ## **Education**
 - *2021.02 - 2022.02* &nbsp; Institute of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering (物联网工程学院), Jiangnan University (江南大学), Wuxi, China. 
-- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai Dianji University (上海电机学院), Shanghai, China. 
+- *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai DianJi University (上海电机学院), Shanghai, China. 
 
 ## **Reviewer**
 - *IEEE Transactions on Automatic Control*, *IEEE Transactions on Fuzzy Systems*, *IEEE Transactions on Cybernetics*, *IEEE Transactions on Neural Networks and Learning Systems*, *IEEE Transactions on Automation Science and Engineering*, etc.
