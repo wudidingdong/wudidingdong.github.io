@@ -47,7 +47,7 @@ I am particularly interested in recruiting graduate students with a strong found
 
 ## **Journal papers**
 1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Chuanbo Wen, Zhicheng Ji, Ju H. Park. [Secure impulsive synchronization for complex networks under fully distributed deception attacks: Error conjunction approach](https://ieeexplore.ieee.org/document/11143555), *IEEE Transactions on Industrial Informatics*, 2025, 21(12): 9435-9445. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:mB3voiENLucC'></span></strong>
-1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Chuanbo Wen, Zhicheng Ji. [Bipartite synchronization for fuzzy memristive neural networks: A weighted memory-based self-triggered impulsive strategy](https://link.springer.com/article/10.1007/s11071-025-11178-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250416&utm_content=10.1007/s11071-025-11178-0), *Nonlinear Dynamics*, 2025, 113: 20211-20226.  <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:dhFuZR0502QC'></span></strong>
+1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Chuanbo Wen, Zhicheng Ji. [Bipartite synchronization for fuzzy memristive neural networks: A weighted memory-based self-triggered impulsive strategy](https://link.springer.com/article/10.1007/s11071-025-11178-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250416&utm_content=10.1007/s11071-025-11178-0), *Nonlinear Dynamics*, 2025, 113: 20211-20226. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:dhFuZR0502QC'></span></strong>
 1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Chuanbo Wen, Zhicheng Ji, Ju H. Park. [Secure impulsive synchronization for derivatively coupled networks against DoS attacks: A memory-compensated strategy](https://www.sciencedirect.com/science/article/pii/S0167691124002275?dgcid=author), *Systems and Control Letters*, 2024, 193: 105939. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:4TOpqqG69KYC'></span></strong>
 1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Chuanbo Wen, Zhicheng Ji. [Bipartite synchronization for coupled memristive neural networks: Memory-based dynamic updating law](https://www.sciencedirect.com/science/article/abs/pii/S0950705124007366), *Knowledge-Based Systems*, 2024, 299: 112102. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:ULOm3_A8WrAC'></span></strong>
 1. **<u>Dong Ding</u>**, Ze Tang<sup>&#42;</sup>, Ju H. Park, Zhicheng Ji. [Quasi-bipartite synchronization of derivatively coupled complex dynamic networks: Memory-based self-triggered approach](https://ieeexplore.ieee.org/document/10320378), *IEEE Transactions on Systems, Man, Cybernetics: Systems*, 2024, 54(3): 1611-1621. <strong><span class='show_paper_citations' data='DysRrzMAAAAJ:Zph67rFs4hoC'></span></strong>
@@ -105,12 +105,9 @@ I am particularly interested in recruiting graduate students with a strong found
 
 ## **Work**
 - *2022.09 - 2026.05* &nbsp; School of Electrical Engineering, Shanghai DianJi University, Shanghai, China.
-- *2026.06 - now* &nbsp; School of Electrical and Energy Engineering (电气与能源工程学院), Shanghai DianJi University Shanghai, China.
+- *2026.06 - now* &nbsp; School of Electrical and Energy Engineering, Shanghai DianJi University Shanghai, China.
 
 ## **Education**
 - *2021.02 - 2022.02* &nbsp; Institute of Information and Communication, Yeungnam University, Gyeongsangbuk-do, Korea.
 - *2017.09 - 2022.06* &nbsp; School of Internet of Things Engineering (物联网工程学院), Jiangnan University (江南大学), Wuxi, China. 
 - *2012.09 - 2016.06* &nbsp; School of Vehicle Engineering (汽车学院), Shanghai DianJi University (上海电机学院), Shanghai, China. 
-
-## **Reviewer**
-- *IEEE Transactions on Automatic Control*, *IEEE Transactions on Fuzzy Systems*, *IEEE Transactions on Cybernetics*, *IEEE Transactions on Neural Networks and Learning Systems*, *IEEE Transactions on Automation Science and Engineering*, etc.
