@@ -19,7 +19,7 @@ redirect_from:
 
 {% include citation_chart.html %}
 
-Welcome to my academic page. I am now working at School of Electrical Engineering and Energy Engineering, Shanghai DianJi University. If you prefer to browse the Chinese version, please visit [**中文主页**](https://wudidingdong.netlify.app/).
+Welcome to my academic page. I am now working at School of Electrical and Energy Engineering, Shanghai DianJi University. If you prefer to browse the Chinese version, please visit [**中文主页**](https://wudidingdong.netlify.app/).
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/wudidingdong/wudidingdong.github.io/google-scholar-stats/gs_data.json&query=$.hindex&label=h-index&labelColor=f6f6f6&color=9cf&style=flat" />.
 
