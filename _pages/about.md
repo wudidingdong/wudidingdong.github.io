@@ -23,6 +23,8 @@ Welcome to my academic page. I am now working at School of Electrical Engineerin
 
 My research interest includes exponential synchronization, impulsive control, self-triggered mechanism. I have published more than 10 papers at the international journals/conferences with total <a href='https://scholar.google.com/citations?user=DysRrzMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/wudidingdong/wudidingdong.github.io/google-scholar-stats/gs_data.json&query=$.hindex&label=h-index&labelColor=f6f6f6&color=9cf&style=flat" />.
 
+In regard to my grants, I was granted **Youth Foundation C (青C)** by **NSFC (国家自然科学基金)** in 2026, **Shanghai Chenguang Program (上海市“晨光计划”)** by **Shanghai Education Development Foundation and Shanghai Municipal Education Commission (上海市教委-发展基金会)** in 2024, an open project (开放课题) by key laboratory of Advanced Process Control for Light Industry, Ministry of Education (轻工过程教育部重点实验室) in 2024.
+
 I am particularly interested in recruiting graduate students with a strong foundation in **Mathematics**, including proficiency in differential equations and calculus. What I am most concerned about is whether you can devote yourself to studying academics including reading papers and trying simulations. Additionally, familiarity with programming languages such as **MATLAB** will significantly enhance success in graduate studies.
 
 <!--<span id='aaa'></span>-->
