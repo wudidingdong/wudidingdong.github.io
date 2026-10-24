@@ -1,6 +1,15 @@
 name: Get Citation Data
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_pages/**'
+      - '_includes/**'
+      - '_config.yml'
+      - 'google_scholar_crawler/**'
+      - '.github/workflows/google_scholar_crawler.yaml'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -32,7 +41,7 @@ jobs:
         if [ "$DRY_RUN" = "true" ]; then
           args+=(--dry-run)
         fi
-        if timeout --kill-after=5s 180s python3 -u inspect_uncited.py; then
+        if timeout --kill-after=5s 180s python3 -u main.py "${args[@]}"; then
           echo "::notice::Citation data fetched successfully."
         else
           status=$?

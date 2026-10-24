@@ -55,6 +55,20 @@ class ConversionTests(unittest.TestCase):
             author = source.fetch_author(AUTHOR, KEY)
         self.assertNotIn('num_citations', author['publications'][0])
 
+    def test_uncited_null_marker_is_converted_to_zero(self):
+        payload = response()
+        payload['articles'][0]['cited_by'] = {'value': None}
+        with patch.object(source, 'request_page', return_value=payload):
+            author = source.fetch_author(AUTHOR, KEY)
+        self.assertEqual(author['publications'][0]['num_citations'], 0)
+
+    def test_partial_citation_reference_is_not_guessed_as_zero(self):
+        payload = response()
+        payload['articles'][0]['cited_by'] = {'value': None, 'link': 'https://scholar.google.com/scholar?cites=123'}
+        with patch.object(source, 'request_page', return_value=payload):
+            author = source.fetch_author(AUTHOR, KEY)
+        self.assertNotIn('num_citations', author['publications'][0])
+
     def test_both_documented_pagination_offsets_are_supported(self):
         for parameter in ('start', 'cstart'):
             with self.subTest(parameter=parameter):

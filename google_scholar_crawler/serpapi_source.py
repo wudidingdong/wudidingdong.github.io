@@ -108,10 +108,14 @@ def fetch_author(author_id, api_key):
                     'citation': article.get('publication', ''),
                 },
             }
-            citations = article.get('cited_by', {}).get('value')
-            if citations is not None:
-                paper['num_citations'] = count(citations, 'paper citations')
-            # Missing counts stay unknown; a real zero remains zero.
+            cited_by = article.get('cited_by')
+            # SerpApi uses this exact marker for a blank Scholar citation cell.
+            # Verified against the first homepage paper's cached source HTML.
+            if cited_by == {'value': None}:
+                paper['num_citations'] = 0
+            elif isinstance(cited_by, dict) and cited_by.get('value') is not None:
+                paper['num_citations'] = count(cited_by['value'], 'paper citations')
+            # Absent or incomplete metadata stays unknown rather than becoming zero.
             publications[paper_id] = paper
         if len(publications) == previous_count:
             raise ValueError('Pagination returned no new publications')
