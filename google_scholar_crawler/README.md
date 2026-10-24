@@ -9,7 +9,9 @@ Google Scholar author data through SerpApi. It uses only Python's standard libra
 2. Open repository **Settings → Secrets and variables → Actions → New repository secret**.
 3. Add **SERPAPI_API_KEY** with the key as its value. Keep the existing **GOOGLE_SCHOLAR_ID** secret.
 4. After merging this change, open **Actions → Get Citation Data → Run workflow** and select `main`.
-5. Check the fetch log and the `updated` timestamp in `google-scholar-stats/gs_data.json`.
+5. Leave **dry_run** checked for the first real-data test. Check the fetch log; this run does not publish data.
+6. Once the metrics and paper IDs are verified, run again with **dry_run** unchecked to publish.
+   Confirm that `updated` changes in `google-scholar-stats/gs_data.json`.
 
 Keep API keys in Actions secrets or local environment variables, not in source,
 issues, pull requests, or chat. The script logs page numbers, offsets, and error
@@ -18,6 +20,7 @@ codes; it does not log credential-bearing request URLs or raw API responses.
 ## Behavior
 
 - Scheduled refreshes run daily. Page builds do not fetch data or consume API quota.
+- Manual runs default to validation only; uncheck **dry_run** to publish an update.
 - Pull requests run offline conversion tests only; they never fetch or publish data.
 - Each request asks for up to 100 articles. Follow-up pages are fetched only when
   SerpApi explicitly returns a next page, with a maximum of five pages per run.

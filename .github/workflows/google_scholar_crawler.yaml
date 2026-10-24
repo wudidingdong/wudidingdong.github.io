@@ -2,6 +2,11 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Fetch and validate without publishing data'
+        type: boolean
+        default: true
   pull_request:
     paths:
       - 'google_scholar_crawler/**'
@@ -23,7 +28,11 @@ jobs:
       working-directory: google_scholar_crawler
       timeout-minutes: 4
       run: |
-        if timeout --kill-after=5s 180s python3 -u main.py; then
+        args=()
+        if [ "$DRY_RUN" = "true" ]; then
+          args+=(--dry-run)
+        fi
+        if timeout --kill-after=5s 180s python3 -u main.py "${args[@]}"; then
           echo "::notice::Citation data fetched successfully."
         else
           status=$?
@@ -37,9 +46,10 @@ jobs:
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
     # GitHub skips this step when fetching fails, so the last successful snapshot stays online.
     - name: Publish citation data
-      if: github.event_name != 'pull_request'
+      if: github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run)
       working-directory: google_scholar_crawler/results
       run: |
         git init
