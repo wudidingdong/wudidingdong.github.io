@@ -57,8 +57,9 @@ def main(dry_run=False):
 
         if dry_run:
             logger.info(
-                'Dry run passed: citations=%s, h-index=%s, publications=%s; no files written',
+                'Dry run passed: citations=%s, h-index=%s, publications=%s, zero-citation publications=%s; no files written',
                 author['citedby'], author['hindex'], len(author['publications']),
+                sum(paper.get('num_citations') == 0 for paper in author['publications'].values()),
             )
             return 0
 

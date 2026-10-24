@@ -1,6 +1,15 @@
 name: Get Citation Data
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_pages/**'
+      - '_includes/**'
+      - '_config.yml'
+      - 'google_scholar_crawler/**'
+      - '.github/workflows/google_scholar_crawler.yaml'
   workflow_dispatch:
     inputs:
       dry_run:

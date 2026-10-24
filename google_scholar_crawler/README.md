@@ -19,7 +19,10 @@ codes; it does not log credential-bearing request URLs or raw API responses.
 
 ## Behavior
 
-- Scheduled refreshes run daily. Page builds do not fetch data or consume API quota.
+- Scheduled refreshes run daily at 06:18 UTC (14:18 China Standard Time), subject to GitHub queue delays.
+- Changes pushed to `main` in homepage pages/includes, `_config.yml`, the crawler,
+  or this workflow also refresh citation data. A Pages deployment is not a separate
+  trigger, and publication to `google-scholar-stats` does not trigger a loop.
 - Manual runs default to validation only; uncheck **dry_run** to publish an update.
 - Pull requests run offline conversion tests only; they never fetch or publish data.
 - Each request asks for up to 100 articles. Follow-up pages are fetched only when
@@ -31,7 +34,8 @@ codes; it does not log credential-bearing request URLs or raw API responses.
   is reported separately after publication; the published data remains available on GitHub.
 - Paper citation requests avoid browser JSON caching. Shields badges can retain
   their own short cache after the data is refreshed.
-- Missing paper citation counts remain unknown; explicit zero counts remain zero.
+- SerpApi's explicit uncited marker (`{"value": null}`) is stored as zero, matching
+  Scholar's blank citation cell. Absent or incomplete citation metadata remains unknown.
 - A real-data test requires a configured key. Offline test success alone does not
   establish that this author's data is available from the provider.
 
