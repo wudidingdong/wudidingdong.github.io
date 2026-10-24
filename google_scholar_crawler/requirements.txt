@@ -1,4 +1,1 @@
-jsonpickle==1.4.2
-scholarly==1.7.11
-# scholarly 1.7.11 requires the bibtexparser v1 API.
-bibtexparser==1.4.4
+# The crawler and its tests use only the Python standard library.
