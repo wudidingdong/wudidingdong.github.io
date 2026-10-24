@@ -1,29 +1,45 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '18 6 * * *'
+on:
+  page_build:
+  workflow_dispatch:
+  schedule:
+    - cron: '18 6 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
     - uses: actions/checkout@v3
-    - name: Install Reqs
+    - name: Install dependencies
       run: |
         sudo apt-get install python3-setuptools
-    - name: Run
+        python3 -m pip install -r google_scholar_crawler/requirements.txt
+    - name: Fetch citation data (180-second limit)
+      working-directory: google_scholar_crawler
+      timeout-minutes: 4
       run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
+        if timeout --kill-after=5s 180s python3 -u main.py; then
+          echo "::notice::Citation data fetched successfully."
+        else
+          status=$?
+          if [ "$status" -eq 124 ] || [ "$status" -eq 137 ]; then
+            echo "::error::Citation fetch timed out or was killed. Previous published data is retained."
+          else
+            echo "::error::Citation fetch failed (exit $status). Check the request and stage logs above. Previous published data is retained."
+          fi
+          exit "$status"
+        fi
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    # GitHub skips this step when fetching fails, so the last successful snapshot stays online.
+    - name: Publish citation data
+      working-directory: google_scholar_crawler/results
+      run: |
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
