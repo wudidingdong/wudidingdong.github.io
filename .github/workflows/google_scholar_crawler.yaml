@@ -32,7 +32,7 @@ jobs:
         if [ "$DRY_RUN" = "true" ]; then
           args+=(--dry-run)
         fi
-        if timeout --kill-after=5s 180s python3 -u main.py "${args[@]}"; then
+        if timeout --kill-after=5s 180s python3 -u inspect_uncited.py; then
           echo "::notice::Citation data fetched successfully."
         else
           status=$?
