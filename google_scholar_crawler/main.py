@@ -1,3 +1,4 @@
+import argparse
 import json
 import logging
 import os
@@ -5,20 +6,17 @@ from datetime import datetime, timezone
 from pathlib import Path
 from time import monotonic
 
-from scholarly import scholarly
+from serpapi_source import fetch_author
 
 
 logger = logging.getLogger(__name__)
 
 
-def main():
+def main(dry_run=False):
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s %(levelname)s %(name)s: %(message)s',
     )
-    scholarly.set_logger(True)
-    scholarly.set_retries(2)
-    scholarly.set_timeout(10)
     started = monotonic()
     stage = 'configuration'
 
@@ -26,15 +24,13 @@ def main():
         scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
         if not scholar_id:
             raise ValueError('GOOGLE_SCHOLAR_ID is missing or empty')
+        api_key = os.environ.get('SERPAPI_API_KEY', '').strip()
+        if not api_key:
+            raise ValueError('SERPAPI_API_KEY is missing; add it to repository Actions secrets')
 
-        stage = 'profile'
-        logger.info('stage=%s: requesting the author profile', stage)
-        author = scholarly.search_author_id(scholar_id)
-        logger.info('stage=%s: completed after %.1f seconds', stage, monotonic() - started)
-
-        stage = 'details'
-        logger.info('stage=%s: requesting citation indices, yearly counts, and publications', stage)
-        scholarly.fill(author, sections=['indices', 'counts', 'publications'])
+        stage = 'serpapi'
+        logger.info('stage=%s: requesting author metrics and publications', stage)
+        author = fetch_author(scholar_id, api_key)
         logger.info('stage=%s: completed after %.1f seconds', stage, monotonic() - started)
 
         stage = 'validation'
@@ -59,6 +55,13 @@ def main():
             'gs_data_shieldsio.json': json.dumps(shields_data, ensure_ascii=False),
         }
 
+        if dry_run:
+            logger.info(
+                'Dry run passed: citations=%s, h-index=%s, publications=%s; no files written',
+                author['citedby'], author['hindex'], len(author['publications']),
+            )
+            return 0
+
         stage = 'write'
         results = Path('results')
         results.mkdir(exist_ok=True)
@@ -77,4 +80,6 @@ def main():
 
 
 if __name__ == '__main__':
-    raise SystemExit(main())
+    parser = argparse.ArgumentParser(description='Update Google Scholar statistics via SerpApi')
+    parser.add_argument('--dry-run', action='store_true', help='Fetch and validate without writing results')
+    raise SystemExit(main(dry_run=parser.parse_args().dry_run))

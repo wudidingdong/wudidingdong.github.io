@@ -1,8 +1,16 @@
 name: Get Citation Data
 
 on:
-  page_build:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Fetch and validate without publishing data'
+        type: boolean
+        default: true
+  pull_request:
+    paths:
+      - 'google_scholar_crawler/**'
+      - '.github/workflows/google_scholar_crawler.yaml'
   schedule:
     - cron: '18 6 * * *'
 
@@ -12,15 +20,19 @@ jobs:
     timeout-minutes: 10
     steps:
     - uses: actions/checkout@v3
-    - name: Install dependencies
+    - name: Test citation data conversion (no API key required)
       run: |
-        sudo apt-get install python3-setuptools
-        python3 -m pip install -r google_scholar_crawler/requirements.txt
+        python3 -m unittest discover -s google_scholar_crawler -p 'test_*.py' -v
     - name: Fetch citation data (180-second limit)
+      if: github.event_name != 'pull_request'
       working-directory: google_scholar_crawler
       timeout-minutes: 4
       run: |
-        if timeout --kill-after=5s 180s python3 -u main.py; then
+        args=()
+        if [ "$DRY_RUN" = "true" ]; then
+          args+=(--dry-run)
+        fi
+        if timeout --kill-after=5s 180s python3 -u main.py "${args[@]}"; then
           echo "::notice::Citation data fetched successfully."
         else
           status=$?
@@ -33,8 +45,11 @@ jobs:
         fi
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
     # GitHub skips this step when fetching fails, so the last successful snapshot stays online.
     - name: Publish citation data
+      if: github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run)
       working-directory: google_scholar_crawler/results
       run: |
         git init
