@@ -9,11 +9,15 @@
             // var h_index = data['hindex'];
             // document.getElementById('aaa').innerHTML = h_index;
             
+            var publications = (data && data.publications) || {};
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var publication = publications[paperId];
+                if (!publication || !Number.isInteger(publication.num_citations) || publication.num_citations < 0) {
+                    return;
+                }
+                element.textContent = '| Citations: ' + publication.num_citations;
             });
         });
     })
