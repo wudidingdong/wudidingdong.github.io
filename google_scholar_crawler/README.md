@@ -27,6 +27,10 @@ codes; it does not log credential-bearing request URLs or raw API responses.
 - HTTP 401 indicates an invalid key; HTTP 429 indicates a quota or rate limit.
   Errors stop the update without automatic retries or replacement of published data.
 - The workflow retains its 180-second fetch deadline and 5-second termination grace period.
+- Successful publications refresh both jsDelivr JSON caches. A cache refresh failure
+  is reported separately after publication; the published data remains available on GitHub.
+- Paper citation requests avoid browser JSON caching. Shields badges can retain
+  their own short cache after the data is refreshed.
 - Missing paper citation counts remain unknown; explicit zero counts remain zero.
 - A real-data test requires a configured key. Offline test success alone does not
   establish that this author's data is available from the provider.

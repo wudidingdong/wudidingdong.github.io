@@ -58,3 +58,21 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
+    - name: Refresh citation CDN cache
+      if: github.event_name != 'pull_request' && (github.event_name != 'workflow_dispatch' || !inputs.dry_run)
+      run: |
+        python3 - <<'PY'
+        import json
+        import os
+        from urllib.request import urlopen
+
+        for filename in ('gs_data.json', 'gs_data_shieldsio.json'):
+            path = f"/gh/{os.environ['GITHUB_REPOSITORY']}@google-scholar-stats/{filename}"
+            with urlopen('https://purge.jsdelivr.net' + path, timeout=30) as response:
+                result = json.load(response)
+            entry = result.get('paths', {}).get(path, {})
+            providers = entry.get('providers', {})
+            if result.get('status') != 'finished' or entry.get('throttled') or not providers or not all(providers.values()):
+                raise RuntimeError(f'CDN refresh was not confirmed for {filename}')
+            print(f'CDN refreshed: {filename}')
+        PY
